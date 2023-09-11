@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Kapoor</h1>
+![image title](https://rushter.com/counter.svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaskapoor07&label=Profile%20views&color=0e75b6&style=flat" alt="manaskapoor07" /> </p>
