@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaskapoor07&label=Profile%20views&color=0e75b6&style=flat" alt="manaskapoor07" /> </p>
 
-- 🔭 I’m currently working on **AudioBook Website**
+- 🔭 I’m currently working on **Health Management**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manas-kapoor-51b5a7215/](https://www.linkedin.com/in/manas-kapoor-51b5a7215/)
 
-- 💬 Ask me about **React javascript C++**
+- 💬 Ask me about **Frontend technologies**
 
 - 📫 How to reach me **kapoormanas00@gmail.com**
 
